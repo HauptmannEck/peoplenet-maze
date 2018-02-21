@@ -1,0 +1,11 @@
+{
+  "name": "peoplenet-maze-server",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

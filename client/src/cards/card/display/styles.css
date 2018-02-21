@@ -1,0 +1,28 @@
+table {
+    margin: 0 auto;
+}
+
+td {
+    width:10px;
+    height: 10px;
+}
+
+.start {
+    background-color: green;
+}
+
+.end {
+    background-color: darkred;
+}
+
+.path {
+    background-color: aqua;
+}
+
+.wall {
+    background-color: black;
+}
+
+.open {
+    background-color: white;
+}

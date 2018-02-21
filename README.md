@@ -15,3 +15,5 @@ The server will be running at:
 ```
 http://localhost:8080/
 ```
+
+Foundation created with the `create-react-app` tool.
